@@ -1,2 +1,2 @@
 # CRC
-A program that simulates an ethernet CRC check
+A program that simulates a CRC check used in ethernet trailers
